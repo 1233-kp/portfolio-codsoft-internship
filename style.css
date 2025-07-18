@@ -225,7 +225,6 @@
   padding-top: 18px;
   font-size: 13px;
 }
-
 @media (max-width: 620px) {
   .buttons-container {
     flex-direction: column;
